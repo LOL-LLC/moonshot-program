@@ -11,3 +11,6 @@ The program principally aims to a) identify opportunities, b) match teams to opp
 Donations to LOL for the Moonshot Program are accepted at the 0L account: 2057BCFB0189B7FD0ABA7244BA271661.
 
 Donations will be used to fund awards of the program. For professional administration of the resources of the program LOL will retain an administrative fee up to  5% of the funds awarded to teams.
+
+
+LOL will mark this address as a “CommunityWallet” on chain. By that we mean that we will only disburse funds after polling the community. Specifically, funds will be transferred to another Slow Wallet if 2/3 of validators in any epoch approve (by voting power). By the same vote mechanism, if a validator set decides to sunset this account for any reason, we will oblige.
