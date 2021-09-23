@@ -4,7 +4,9 @@ Liberators of Libra LLC is a small software development company owned by Lucas G
 
 Inspired by the well-known Xprize awards, we think large and meaningful rewards are necessary to materialize frontier technologies which are ambitious, speculative, and non-obvious.
 
-As such, LOL has established "Moonshot Projects". This program sponsors large rewards for teams extraordinary background in technology, and a plausible path to deplying said technology in society. We are seeking breakthrough use-cases which depend on yet-unrealized innovations in distributed systems and cryptography. Success for "Moonshots" means producing a jump discontinuity for any industry or any human activity.
+As such, LOL has established "Moonshot Projects". This program sponsors large rewards for teams with extraordinary background in technology, and a plausible path to deplying said technology in society. We are seeking breakthrough use-cases which depend on yet-unrealized innovations in distributed systems and cryptography. 
+
+Success for "Moonshots" means producing a jump discontinuity for any industry or any human activity, but not necessarily immediately.
 
 The program principally aims to a) identify opportunities, b) match teams to opportunities, and c) manage an expert-led evaluation process for technical achievements. Financial awards or grants for technical achievements will be contributed from LOL proprietary funds.
 
