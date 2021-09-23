@@ -1,4 +1,4 @@
-# LOL MOONSHOT PROGRAM
+# MOONSHOT PROGRAM
 
 Liberators of Libra LLC is a small software development company owned by Lucas Geiger. The company has not raised venture capital nor has any investment partners. LOL has been a principal engineering contributor to the 0L project.
 
