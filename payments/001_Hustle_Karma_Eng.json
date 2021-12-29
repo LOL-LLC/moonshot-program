@@ -1,0 +1,32 @@
+{
+    "transaction":"412761fb81fc4059fdf47978736ca9a407664cb274e60de7923c6f2698c2cd0a",
+    "type":1,
+    "details":
+        {
+        "memo": "Karma Hustle bounty for completing the first batch of missions in the engineering project, specifically addition of cryptographic signatures",
+        "missions":
+            [
+                {
+                    "recordURL":"https://airtable.com/shrCuXWvrZgHkspk7/tblixhNzkEaKt3a75/viwlz7S2kmgCkoHFS/recrU6tfBpHS8xJF4",
+                    "author":"otto",
+                    "worker":"coin1111#6493",
+                    "reviewer":"0o-de-lally#9527",
+                    "artifacts":["https://github.com/OLSF/libra/pull/894"]
+                },
+                {
+                    "recordURL":"https://airtable.com/shrCuXWvrZgHkspk7/tblixhNzkEaKt3a75/viwlz7S2kmgCkoHFS/recLzsOCheWleRKhK",
+                    "author":"otto",
+                    "worker":"coin1111#6493",
+                    "reviewer":"0o-de-lally#9527",
+                    "artifacts":["https://github.com/OLSF/libra/pull/894"]
+                },
+                {
+                    "recordURL":"https://airtable.com/shrCuXWvrZgHkspk7/tblixhNzkEaKt3a75/viwlz7S2kmgCkoHFS/recoEGjRNLXIQdRNK",
+                    "author":"otto",
+                    "worker":"coin1111#6493",
+                    "reviewer":"0o-de-lally#9527",
+                    "artifacts":["https://github.com/OLSF/libra/pull/894"]
+                }
+            ]
+        }
+    }
