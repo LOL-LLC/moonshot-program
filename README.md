@@ -19,3 +19,11 @@ LOL will mark this address as a “CommunityWallet” on chain. By that we mean:
 - funds will only be transferred to an 0L SlowWallet, which releases funds over time. 
 - we allow 2/3 of validators (by voting power) to vote to reject our transactions. 
 - if an epoch's validator set decides to sunset this account (burn values and make inaccessible) for any reason, we will oblige.
+
+# Current Challenges Sponsored by Moonshots
+
+- [EVM Bridge](challenges/1_Optimistic_EVM_Bridge.md)
+- [ZKP Natives](challenges/2_ZKP_Natives.md)
+- [MathLib](challenges/3_MathLib.md)
+- [EconLib](challenges/4_EconLib.md)
+- [Carpe Oracle](challenges/5_Distributed_Oracle.md)
