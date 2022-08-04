@@ -1,9 +1,13 @@
 # Moonshot #1: Optimistic EVM Bridge:
+
 ## Participants:
 Multiple participants are allowed and encouraged. Competitive or collaborative participants receive equal rewards.
 
-Iqlusion Inc. (3/2022)
-Coin1111 (3/2022)
+- Iqlusion Inc. (3/2022)
+- Coin1111 (3/2022)
+
+Reward Cap:
+3,000,000 GAS Coins. 6% of Moonshots Funds. 0.3% of 0L Network supply.
 
 ## Brief:
 Chain interoperability is critical to the success of layer-1 blockchains in the coming decade. 
